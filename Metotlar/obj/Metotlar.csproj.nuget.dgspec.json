@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Metotlar\\Metotlar.csproj": {}
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Metotlar\\Metotlar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Metotlar\\Metotlar.csproj": {
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Metotlar\\Metotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Metotlar\\Metotlar.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Metotlar\\Metotlar.csproj",
         "projectName": "Metotlar",
-        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Metotlar\\Metotlar.csproj",
+        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Metotlar\\Metotlar.csproj",
         "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Metotlar\\obj\\",
+        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Metotlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

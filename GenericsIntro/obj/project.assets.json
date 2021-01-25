@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\GenericsIntro\\GenericsIntro.csproj",
+      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
       "projectName": "GenericsIntro",
-      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\GenericsIntro\\GenericsIntro.csproj",
+      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\GenericsIntro\\GenericsIntro.csproj",
       "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\GenericsIntro\\obj\\",
+      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\GenericsIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

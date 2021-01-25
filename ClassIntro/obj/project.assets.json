@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\ClassIntro\\ClassIntro.csproj",
+      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj",
       "projectName": "ClassIntro",
-      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\ClassIntro\\ClassIntro.csproj",
+      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\ClassIntro\\ClassIntro.csproj",
       "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\ClassIntro\\obj\\",
+      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\ClassIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

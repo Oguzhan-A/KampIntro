@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\WorkBook\\WorkBook.csproj",
+      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\WorkBook\\WorkBook.csproj",
       "projectName": "WorkBook",
-      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\WorkBook\\WorkBook.csproj",
+      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\WorkBook\\WorkBook.csproj",
       "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\WorkBook\\obj\\",
+      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\WorkBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

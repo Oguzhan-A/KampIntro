@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\OOP1\\OOP1.csproj": {}
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\OOP1\\OOP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\OOP1\\OOP1.csproj": {
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\OOP1\\OOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\OOP1\\OOP1.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\OOP1\\OOP1.csproj",
         "projectName": "OOP1",
-        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\OOP1\\OOP1.csproj",
+        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\OOP1\\OOP1.csproj",
         "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\OOP1\\obj\\",
+        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\OOP1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

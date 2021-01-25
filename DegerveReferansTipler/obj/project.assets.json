@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\DegerveReferansTipler\\DegerveReferansTipler.csproj",
+      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\DegerveReferansTipler\\DegerveReferansTipler.csproj",
       "projectName": "DegerveReferansTipler",
-      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\DegerveReferansTipler\\DegerveReferansTipler.csproj",
+      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\DegerveReferansTipler\\DegerveReferansTipler.csproj",
       "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\DegerveReferansTipler\\obj\\",
+      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\DegerveReferansTipler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

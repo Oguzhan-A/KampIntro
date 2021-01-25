@@ -1,0 +1,13 @@
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\bin\Debug\netcoreapp3.1\ConstructorWorkbook.exe
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\bin\Debug\netcoreapp3.1\ConstructorWorkbook.deps.json
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\bin\Debug\netcoreapp3.1\ConstructorWorkbook.runtimeconfig.json
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\bin\Debug\netcoreapp3.1\ConstructorWorkbook.runtimeconfig.dev.json
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\bin\Debug\netcoreapp3.1\ConstructorWorkbook.dll
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\bin\Debug\netcoreapp3.1\ConstructorWorkbook.pdb
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\obj\Debug\netcoreapp3.1\ConstructorWorkbook.AssemblyInfoInputs.cache
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\obj\Debug\netcoreapp3.1\ConstructorWorkbook.AssemblyInfo.cs
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\obj\Debug\netcoreapp3.1\ConstructorWorkbook.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\obj\Debug\netcoreapp3.1\ConstructorWorkbook.dll
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\obj\Debug\netcoreapp3.1\ConstructorWorkbook.pdb
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\obj\Debug\netcoreapp3.1\ConstructorWorkbook.genruntimeconfig.cache
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\ConstructorWorkbook\obj\Debug\netcoreapp3.1\ConstructorWorkbook.csprojAssemblyReference.cache

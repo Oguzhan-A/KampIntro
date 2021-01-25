@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\KampIntro\\KampIntro.csproj": {}
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\KampIntro\\KampIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\KampIntro\\KampIntro.csproj": {
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\KampIntro\\KampIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\KampIntro\\KampIntro.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\KampIntro\\KampIntro.csproj",
         "projectName": "KampIntro",
-        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\KampIntro\\KampIntro.csproj",
+        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\KampIntro\\KampIntro.csproj",
         "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\KampIntro\\obj\\",
+        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\KampIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

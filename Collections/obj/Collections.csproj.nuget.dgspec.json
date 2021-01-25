@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Collections\\Collections.csproj": {}
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Collections\\Collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Collections\\Collections.csproj": {
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Collections\\Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Collections\\Collections.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Collections\\Collections.csproj",
         "projectName": "Collections",
-        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Collections\\Collections.csproj",
+        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Collections\\Collections.csproj",
         "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Collections\\obj\\",
+        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Collections\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

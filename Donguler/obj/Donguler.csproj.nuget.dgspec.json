@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Donguler\\Donguler.csproj": {}
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Donguler\\Donguler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Donguler\\Donguler.csproj": {
+    "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Donguler\\Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Donguler\\Donguler.csproj",
+        "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Donguler\\Donguler.csproj",
         "projectName": "Donguler",
-        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Donguler\\Donguler.csproj",
+        "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Donguler\\Donguler.csproj",
         "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Donguler\\obj\\",
+        "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

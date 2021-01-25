@@ -1,0 +1,13 @@
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\bin\Debug\netcoreapp3.1\Workbook2.exe
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\bin\Debug\netcoreapp3.1\Workbook2.deps.json
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\bin\Debug\netcoreapp3.1\Workbook2.runtimeconfig.json
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\bin\Debug\netcoreapp3.1\Workbook2.runtimeconfig.dev.json
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\bin\Debug\netcoreapp3.1\Workbook2.dll
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\bin\Debug\netcoreapp3.1\Workbook2.pdb
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\obj\Debug\netcoreapp3.1\Workbook2.csprojAssemblyReference.cache
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\obj\Debug\netcoreapp3.1\Workbook2.AssemblyInfoInputs.cache
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\obj\Debug\netcoreapp3.1\Workbook2.AssemblyInfo.cs
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\obj\Debug\netcoreapp3.1\Workbook2.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\obj\Debug\netcoreapp3.1\Workbook2.dll
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\obj\Debug\netcoreapp3.1\Workbook2.pdb
+C:\Users\Oğuzhan PC\source\repos\KampIntro2\Workbook2\obj\Debug\netcoreapp3.1\Workbook2.genruntimeconfig.cache

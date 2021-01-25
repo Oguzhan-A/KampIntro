@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Matematik\\Matematik.csproj",
+      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Matematik\\Matematik.csproj",
       "projectName": "Matematik",
-      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Matematik\\Matematik.csproj",
+      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Matematik\\Matematik.csproj",
       "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro2\\Matematik\\obj\\",
+      "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\Matematik\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Oğuzhan PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

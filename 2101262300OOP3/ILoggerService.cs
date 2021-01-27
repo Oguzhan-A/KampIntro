@@ -4,7 +4,8 @@ using System.Text;
 
 namespace _2101262300OOP3
 {
-    class Deneme
+    interface ILoggerService
     {
+        void Log();
     }
 }

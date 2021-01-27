@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _2101262300OOP3
 {
@@ -24,8 +25,19 @@ namespace _2101262300OOP3
             IKrediManager konutKrediManager = new KonutKrediManager();
             //iptal konutKrediManager.Hesapla();
 
+            ILoggerService databaseLoggerService = new DatabaseLoggerService();
+            ILoggerService fileLoggerService = new FileLoggerService();
+
+
+
             BasvuruManager basvuruManager = new BasvuruManager();
-            basvuruManager.BasvuruYap(ihtiyacKrediManager);
+            basvuruManager.BasvuruYap(konutKrediManager, new List<ILoggerService> { new DatabaseLoggerService(), new FileLoggerService() });
+
+            List<IKrediManager> krediler = new List<IKrediManager>() {ihtiyacKrediManager};
+
+           // basvuruManager.KrediOnBilgilendirmeYap(krediler);
+
+
         }
     }
 }

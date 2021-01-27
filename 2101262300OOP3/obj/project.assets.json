@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\2101262300OOP3\\2101262300 OOP3.csproj",
-      "projectName": "2101262300 OOP3",
-      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\2101262300OOP3\\2101262300 OOP3.csproj",
+      "projectUniqueName": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\2101262300OOP3\\2101262300 OOP3 (Interface).csproj",
+      "projectName": "2101262300 OOP3 (Interface)",
+      "projectPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\2101262300OOP3\\2101262300 OOP3 (Interface).csproj",
       "packagesPath": "C:\\Users\\Oğuzhan PC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Oğuzhan PC\\source\\repos\\KampIntro\\2101262300OOP3\\obj\\",
       "projectStyle": "PackageReference",
